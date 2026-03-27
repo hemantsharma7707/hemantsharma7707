@@ -24,25 +24,25 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hemantsharma7707&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=hemantsharma7707&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🚀 Top Projects
-- 🔗 Project 1 - Description  
-- 🔗 Project 2 - Description  
-- 🔗 Project 3 - Description  
+- 🔗 Hand Tracking - Description  
+- 🔗 Event Hub - Description  
+- 🔗 To-Do List - Description  
 
 ---
 
 ### 🌐 Connect With Me
 <p>
-  <a href="YOUR_LINKEDIN">LinkedIn</a> • 
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="linkedin.com/in/hemant-sharma-2361bb337">LinkedIn</a> • 
+  <a href="mailto:hemantjvd@gmail.com">Email</a>
 </p>
 
 ---
 
-⭐ From [Hemant Sharma](https://github.com/YOUR_USERNAME)
+⭐ From [Hemant Sharma](https://github.com/hemantsharma7707)
