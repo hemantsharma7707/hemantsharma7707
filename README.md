@@ -31,9 +31,15 @@
 ---
 
 ### 🚀 Top Projects
-- 🔗 Hand Tracking - Description  
-- 🔗 Event Hub - Description  
-- 🔗 To-Do List - Description  
+
+🖐️ **[Hand Tracking]( https://hemantsharma7707.github.io/HandTracking/)**  
+Real-time hand gesture detection using computer vision for interactive applications.
+
+📅 **[Event Hub](https://hemantsharma7707.github.io/EventHub/)**  
+A modern event management platform to create, explore, and manage events seamlessly.
+
+🖥️ **[Portfolio](https://hemantsharma7707.github.io/New-Portfolio/)**  
+🚀 A modern and responsive portfolio website to showcase my projects, technical skills, and achievements. Built to create a strong online presence and attract opportunities.
 
 ---
 
