@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemant Sharma</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | BCA Student</h3>
+<h3 align="center">🚀 Full Stack Developer | BCA Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;DSA+Learner;Future+Software+Engineer" />
