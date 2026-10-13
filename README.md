@@ -15,15 +15,28 @@
 
 ⸻
 
-👨‍💻 whoami
+## 👨‍💻 `whoami`
 
+```javascript
 const hemant = {
     education: "BCA Student",
     location: "Jaipur, India",
     role: "Aspiring Software Engineer",
-    currentFocus: ["MERN Stack", "AI Engineering", "DSA"],
-    languages: ["JavaScript", "C++", "Python"],
-    interests: ["Full Stack Development", "AI", "Problem Solving"],
+    currentFocus: [
+        "MERN Stack",
+        "AI Engineering",
+        "DSA"
+    ],
+    languages: [
+        "JavaScript",
+        "C++",
+        "Python"
+    ],
+    interests: [
+        "Full Stack Development",
+        "AI",
+        "Problem Solving"
+    ],
     philosophy: "Build. Break. Learn. Improve."
 };
 
