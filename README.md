@@ -87,7 +87,7 @@ const hemant = {
     <td colspan="2" align="center">
       <h3>🌐 Personal Portfolio</h3>
       <p>A responsive portfolio showcasing my projects, technical skills, and development journey.</p>
-      <a href="https://hemantsharma7707.github.io/New-Portfolio/">
+      <a href="https://hemant-sharma-portfolio.vercel.app/"> 
         <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Visit Portfolio"/>
       </a>
     </td>
